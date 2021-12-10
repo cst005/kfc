@@ -2,7 +2,7 @@
 ## 服务端运行
 cd进入serve文件夹，输入nodemon app.js 运行
 ## 页面截图
-![](https://pic.imgdb.cn/item/61b2eb022ab3f51d915785de.png)
+![](https://i.niupic.com/images/2021/12/10/9MC0.png)
 ## Project setup
 ```
 npm install
